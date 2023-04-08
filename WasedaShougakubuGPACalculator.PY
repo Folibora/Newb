@@ -1,5 +1,4 @@
 aplus = input("Number of credits of A+ you have")
-
 a = input("Number of credits of a you have")
 b = input("Number of credits of b you have")
 c = input("Number of credits of c you have")
